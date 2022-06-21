@@ -2,7 +2,7 @@
 # $ Time    :2022/6/12 16:56
 # $ Author  :@柒筱暮
 # $ GitHub  :https://github.com/Angie-co
-# $ File    :0.实训报告3-Requests.py
+# $ File    :up-query.py
 
 
 from rich import print
